@@ -54,7 +54,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>co3326.App</mainClass>
+                            <mainClass>ro.utcluj.as.sshc.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
