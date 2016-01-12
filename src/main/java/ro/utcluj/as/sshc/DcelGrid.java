@@ -2,6 +2,11 @@ package ro.utcluj.as.sshc;
 
 import java.awt.*;
 
+import ro.utcluj.as.sshc.exception.DivisionByZeroException;
+import ro.utcluj.as.sshc.exception.InvalidNumericValueException;
+import ro.utcluj.as.sshc.exception.NullStringException;
+import ro.utcluj.as.sshc.exception.SyntaxErrorException;
+
 class DoubleData {
 	
 	public double value;
